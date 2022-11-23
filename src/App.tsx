@@ -1,5 +1,5 @@
 function App() {
-  return <div className="App">Lege Artis Administration Panel</div>;
+  return <h1 className="App">Lege Artis Administration Panel</h1>;
 }
 
 export default App;
